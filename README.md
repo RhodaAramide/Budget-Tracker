@@ -30,11 +30,11 @@ Make sure you have a web browser installed on your computer.
 
 1. Clone the repository or download the ZIP file and extract it.
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/RhodaAramide/Budget-Tracker.git
    ```
 2. Navigate to the project directory.
    ```bash
-   cd Budget-Tracker
+   cd budget-tracker
    ```
 3. Open the `index.html` file in your preferred web browser to view the application.
    ```bash
@@ -72,7 +72,7 @@ You can access the deployed application at the following link:
 ## File Structure
 
 ```
-personal-budget-tracker/
+budget-tracker/
 ├── index.html
 ├── styles.css
 ├── app.js
