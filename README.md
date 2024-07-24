@@ -67,7 +67,7 @@ Make sure you have a web browser installed on your computer.
 
 You can access the deployed application at the following link:
 
-[Personal Budget Tracker](https://rhodaaramide.github.io/Budget-Tracker/index.html)
+[Personal Budget Tracker](https://rhodaaramide.github.io/Budget-Tracker/)
 
 ## File Structure
 

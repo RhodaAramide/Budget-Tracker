@@ -1,4 +1,4 @@
-/* styles.css */
+
 body {
     font-family: 'Arial', sans-serif;
 }
@@ -20,24 +20,6 @@ button:hover {
     background-color: #2563eb;
 }
 
-/* #transactionList li button {
-    margin-left: 0.5rem;
-    padding: 0.5rem;
-}
-
-#transactionList li button.edit-btn {
-    background-color: #3b82f6;
-    color: #fff;
-    border: none;
-    border-radius: 0.25rem;
-}
-
-#transactionList li button.delete-btn {
-    background-color: #ef4444;
-    color: #fff;
-    border: none;
-    border-radius: 0.25rem;
-} */
 
 footer {
     width: 100%;
