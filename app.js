@@ -79,7 +79,7 @@ function updateTransactions() {
                 <span class="text-red-500">-$${Math.abs(transaction.amount).toFixed(2)}</span>
             </div>
             <div>
-                <button class="bg-blue-500 text-white py-1 px-2 rounded edit-btn  mr-2 ml-2" data-id="${transaction.id}">Edit</button>
+                <button class="bg-blue-500 text-white py-1 px-2 rounded edit-btn mr-2 ml-4" data-id="${transaction.id}">Edit</button>
                 <button class="bg-red-500 text-white py-1 px-2 rounded delete-btn" data-id="${transaction.id}">Delete</button>
             </div>
         `;
