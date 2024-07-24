@@ -1,6 +1,3 @@
-Sure! Here is the updated `README.md` file with a section for the deployed link:
-
-```markdown
 # Personal Budget Tracker
 
 ## Overview
@@ -33,7 +30,7 @@ Make sure you have a web browser installed on your computer.
 
 1. Clone the repository or download the ZIP file and extract it.
    ```bash
-   git clone https://github.com/RhodaAramide/Budget-Tracker.git
+   git clone <repository_url>
    ```
 2. Navigate to the project directory.
    ```bash
@@ -81,10 +78,6 @@ personal-budget-tracker/
 ├── app.js
 └── README.md
 ```
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Author
 
