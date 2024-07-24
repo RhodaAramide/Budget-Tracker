@@ -72,7 +72,7 @@ function updateTransactions() {
 
         transactionItem.innerHTML = `
             <div class="text-sm text-gray-500">${transaction.date}</div>
-            <div class="flex-1 px-4">
+            <div class="flex-1 px-6">
                 <span class="block font-bold">${transaction.description}</span>
             </div>
             <div>
