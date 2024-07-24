@@ -83,6 +83,4 @@ personal-budget-tracker/
 
 RhodaAramide
 
-&copy; 2024 RhodaAramide. All rights reserved.
-```
 
